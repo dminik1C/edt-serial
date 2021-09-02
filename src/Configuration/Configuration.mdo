@@ -43,4 +43,5 @@
   <roles>Role.Просмотр</roles>
   <commonCommands>CommonCommand.НайтиТоварПоНаименованию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПродажаТоваров</documents>
 </mdclass:Configuration>
